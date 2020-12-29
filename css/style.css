@@ -1,0 +1,53 @@
+/* navbar */
+.brand-logo {
+    font-family: Viga;
+    font-size: 32px;
+}
+
+.nav-link:hover {
+    color: rgba(160, 40, 216, 0.9);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Utility */
+.tombol {
+    text-transform: capitalize;
+    border-radius: 40px;
+    background-color: brown;
+
+}
+
+.slider h3,
+.slider h5 {
+    text-shadow: 2px 2px 3px rgba (0, 0, 0, 1);
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+.row h3,
+.row h5 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax-container h3 {
+    font-family: 'Bebas Neue', cursive !important;
+    text-shadow: 1px 1px 3px rgba (0, 0, 0, 0.5);
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.container-partners img {
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.9))
+}
+
+section {
+    padding: 20px 0;
+}
